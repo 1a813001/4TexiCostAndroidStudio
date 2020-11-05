@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btn1" type="id" />
+    <item name="edit1" type="id" />
+    <item name="edit2" type="id" />
+    <item name="edit3" type="id" />
+    <item name="textV4" type="id" />
+</resources>
